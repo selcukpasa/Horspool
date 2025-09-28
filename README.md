@@ -1,2 +1,2 @@
 # Horspool
-Implementation of the Horspool algorithm in C++
+Implementation of the Horspool algorithm in C++.
